@@ -5,9 +5,9 @@ Aprendizado- Informática
 https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ![image](https://github.com/user-attachments/assets/1bec92b1-21b4-4bdd-8621-7c6cf899d513)
 
-
 ## Segunda atividade: Palhinha de contas- Excel 
 https://1drv.ms/x/c/e3f7bd4e5b0206a7/Ebf3pXYhG6VPv_33QHDbq0MBPwYqY_FPwya3Zai_fFCjag?e=whV8i7
+![image](https://github.com/user-attachments/assets/dc81b57f-27df-4476-97e5-6fab41eea963)
 
 
 ## Terceira atividade: Usando fórmulas e dados abertos- Excel 
