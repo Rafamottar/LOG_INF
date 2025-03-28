@@ -3,6 +3,7 @@ Aprendizado- Informática
 
 ## Primeira atividade: Apresentação pessoal- Canva
 https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://github.com/user-attachments/assets/e0aa46d0-804d-431b-b53c-834943f71da8)
 
 
 ## Segunda atividade: Palhinha de contas- Excel 
