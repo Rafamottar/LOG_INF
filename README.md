@@ -11,8 +11,8 @@ https://1drv.ms/x/c/e3f7bd4e5b0206a7/Ebf3pXYhG6VPv_33QHDbq0MBPwYqY_FPwya3Zai_fFC
 ![Captura de tela 2025-03-28 184618](https://github.com/user-attachments/assets/acca4282-8706-4a18-9500-4ce006f9ce76)
 
 ## Terceira atividade: Usando fórmulas e dados abertos- Excel 
-https://1drv.ms/x/c/e3f7bd4e5b0206a7/EcI_Ui3m6flIiZDpq9XiigcB98Py_maF8vpSZIdsf2GOrg?e=abqo8X
-![image](https://github.com/user-attachments/assets/722a8abe-94bb-4921-8255-2975a5a5291a)
-![image](https://github.com/user-attachments/assets/5c8da873-93fd-4360-9351-792fe3d973fe)
+https://1drv.ms/x/c/e3f7bd4e5b0206a7/EUpX10gRxhxKmfY9zVvNLegB-aTCxJN-tA-kBOsYAL70xQ?e=9DCM3f
+![Captura de tela 2025-03-28 184515](https://github.com/user-attachments/assets/dcefd2a7-8e7c-4428-83b6-a326bed829c9)
+![Captura de tela 2025-03-28 190009](https://github.com/user-attachments/assets/88e31a98-f6da-4976-b201-7d5c59e240b3)
 
 ## Quarta atividade: Usando dados abertos- Power Bi
