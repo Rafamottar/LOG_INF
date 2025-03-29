@@ -12,7 +12,7 @@ https://1drv.ms/x/c/e3f7bd4e5b0206a7/Ebf3pXYhG6VPv_33QHDbq0MBPwYqY_FPwya3Zai_fFC
 
 ## TERCEIRA ATIVIDADE: Usando fórmulas e dados abertos- Excel 
 https://1drv.ms/x/c/e3f7bd4e5b0206a7/EUpX10gRxhxKmfY9zVvNLegB-aTCxJN-tA-kBOsYAL70xQ?e=9DCM3f
-![Captura de tela 2025-03-28 184515](https://github.com/user-attachments/assets/dcefd2a7-8e7c-4428-83b6-a326bed829c9)
+![Captura de tela 2025-03-28 211959](https://github.com/user-attachments/assets/2d451bef-4ba5-46ee-b84b-b89435d8302a)
 ![Captura de tela 2025-03-28 190009](https://github.com/user-attachments/assets/88e31a98-f6da-4976-b201-7d5c59e240b3)
 
 ## QUARTA ATIVIDADE: Usando dados abertos- Power Bi
