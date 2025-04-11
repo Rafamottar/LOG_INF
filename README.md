@@ -15,7 +15,7 @@ https://1drv.ms/u/c/e3f7bd4e5b0206a7/EbaBtbPkFUxHotEHAA6lDSABW2lf8XYgLLnEbj7LQT_
 ![Captura de tela 2025-03-28 200024](https://github.com/user-attachments/assets/2a83b664-e2d6-41c4-af51-e098932d7075)
 
 ## QUARTA ATIVIDADE: Usando dados abertos - Excel e Power Bi
-C:\Users\rafae\Downloads\Investimentos---TT (2).xlsx
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/rafaela_ribeiro9_fatec_sp_gov_br/Documents/Attachments/Informatica/Investimentos---TT%20(2)%20-%20Copiar.xlsx?d=we897cb1e55644b9688a515738296f1c5&csf=1&web=1&e=lU8c4t
 ![image](https://github.com/user-attachments/assets/54e1f061-333f-4d08-b879-52f7eb38a04a)
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/rafaela_ribeiro9_fatec_sp_gov_br/Documents/Attachments/Informatica/Investimentos%202024%201%204.pbix?csf=1&web=1&e=ZJz4uN
 ![image](https://github.com/user-attachments/assets/8f09ba78-5ce7-41ed-98f3-164d562afcbe)
