@@ -27,6 +27,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/rafaela_ribeiro9_fatec_sp_go
 ![image](https://github.com/user-attachments/assets/a8ac73ac-6efc-47b0-a9b2-e6722efbd7df)
 
 https://colab.research.google.com/drive/1j1o9Aa-bXs4cClUSZIQWf7TLF4FJdhQp?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/a5a8dd67-597b-4890-9a01-75721dc8cbae)
 ![image](https://github.com/user-attachments/assets/fb580b5a-348f-472d-9196-23ffd64a34bc)
 
