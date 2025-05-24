@@ -31,3 +31,18 @@ https://colab.research.google.com/drive/1j1o9Aa-bXs4cClUSZIQWf7TLF4FJdhQp?usp=sh
 ![image](https://github.com/user-attachments/assets/a5a8dd67-597b-4890-9a01-75721dc8cbae)
 ![image](https://github.com/user-attachments/assets/fb580b5a-348f-472d-9196-23ffd64a34bc)
 
+## PROJETO 2 - CONSUMO DE CERVEJA 
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafaela_ribeiro9_fatec_sp_gov_br/EauMZSVuNlBCicbnCq_9Z7wBltvzgH847DOOk590RlbR6g?e=QtndDV
+
+![image](https://github.com/user-attachments/assets/9fd0dbdb-00bd-4b55-96a4-6c3d07a392a9)
+
+https://colab.research.google.com/drive/14iLUOblgIuox1LL23fpU_rf-QhGT4vFX?usp=sharing
+
+![image](https://github.com/user-attachments/assets/35c8f2e7-1d36-42ab-b971-a043af1feee8)
+![image](https://github.com/user-attachments/assets/ae3e42e8-ea60-4120-bd24-4ceaf33395bd)
+![image](https://github.com/user-attachments/assets/bf01cf45-3615-4d0f-ad54-f87befa7a73c)
+![image](https://github.com/user-attachments/assets/68452737-6194-4cf5-a4eb-dba76a1f116c)
+![image](https://github.com/user-attachments/assets/f49b4038-48be-4938-9dd0-71af1fc682ed)
+
+
+
