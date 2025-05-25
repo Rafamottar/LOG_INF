@@ -40,8 +40,6 @@ https://colab.research.google.com/drive/14iLUOblgIuox1LL23fpU_rf-QhGT4vFX?usp=sh
 ![image](https://github.com/user-attachments/assets/68452737-6194-4cf5-a4eb-dba76a1f116c)
 
 ## PROJETO 3 - VENDA DE CASAS
-![image](https://github.com/user-attachments/assets/6a33c1ca-bba2-4639-944e-b6ecd60aee73)
-
 https://colab.research.google.com/drive/1ECjLAVktqfEZeJji03_6_WM3OulIfGdd?usp=sharing
 
 ![image](https://github.com/user-attachments/assets/9b4e8515-7394-4299-ad20-084ce3fbf271)
