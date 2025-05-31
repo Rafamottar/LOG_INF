@@ -44,6 +44,11 @@ https://colab.research.google.com/drive/1ECjLAVktqfEZeJji03_6_WM3OulIfGdd?usp=sh
 
 ![image](https://github.com/user-attachments/assets/9b4e8515-7394-4299-ad20-084ce3fbf271)
 
+## SEXTA ATIVIDADE: Custo, receita e lucro - Excel
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafaela_ribeiro9_fatec_sp_gov_br/ERUAen7B36NDoauNVLFW0CABiKfxYK5RkSWqEPON2NfUZw?e=6afhBl
+![image](https://github.com/user-attachments/assets/18756464-6312-461b-ac63-64e4bd4f934e)
+![image](https://github.com/user-attachments/assets/2bba7edf-647e-45ad-94ef-d834d6104979)
 
-
-
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafaela_ribeiro9_fatec_sp_gov_br/EW0Vbn8DUn1EkMnXn4YZMcoBGS8fqzdAKWQQVuVeqxZr-g?e=TRCUWI
+![image](https://github.com/user-attachments/assets/8996afeb-7c1d-45c3-80bf-fbc671a292ef)
+![image](https://github.com/user-attachments/assets/41e0f419-19da-447c-950e-4099346a769c)
