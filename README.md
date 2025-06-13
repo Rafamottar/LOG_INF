@@ -52,3 +52,6 @@ https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafaela_ribeiro9_fatec_sp_go
 https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafaela_ribeiro9_fatec_sp_gov_br/EW0Vbn8DUn1EkMnXn4YZMcoBGS8fqzdAKWQQVuVeqxZr-g?e=TRCUWI
 ![image](https://github.com/user-attachments/assets/8996afeb-7c1d-45c3-80bf-fbc671a292ef)
 ![image](https://github.com/user-attachments/assets/41e0f419-19da-447c-950e-4099346a769c)
+
+## SÉTIMA ATIVIDADE: Power Apps e Power Automate 
+
