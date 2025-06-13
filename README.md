@@ -20,7 +20,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/rafaela_ribeiro9_fatec_sp_go
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/rafaela_ribeiro9_fatec_sp_gov_br/Documents/Attachments/Informatica/Investimentos%202024%201%204.pbix?csf=1&web=1&e=ZJz4uN
 ![image](https://github.com/user-attachments/assets/8f09ba78-5ce7-41ed-98f3-164d562afcbe)
 
-## QUINTA ATIVIDEDA: Regressão linear - Excel e Python 
+## QUINTA ATIVIDADE: Regressão linear - Excel e Python 
 ## PROJETO 1 - VENDA DE SOREVETE
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/rafaela_ribeiro9_fatec_sp_gov_br/Documents/Attachments/Informatica/Sorvetes.xlsx?d=w5de72d99c8414c7dba8f327d0e01ea8f&csf=1&web=1&e=L6hLuS
 
