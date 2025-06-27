@@ -60,6 +60,8 @@ https://github.com/user-attachments/assets/f4b208e8-2ecf-4f25-9cea-a89e032c8ced
 ## Power Automete
 https://github.com/user-attachments/assets/55580dc2-dcb8-44a0-96bf-73a8df18c51e
 
+## OITAVA ATIVIDADE: Aplicativo
+![image](https://github.com/user-attachments/assets/60c7f262-d111-4f28-ae65-0d59ab05a877)
 
 
 
